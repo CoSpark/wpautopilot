@@ -1,4 +1,4 @@
-#WP Autopilot
+# WP Autopilot
 
 WP Autopilot is a comprehensive [WooCommerce maintenance service](https://wpautopilot.com) ensuring your online store operates seamlessly. Offering a range of services from regular updates, security enhancements, to premium hosting solutions, WP Autopilot is geared towards optimizing your store's performance. Our dedicated support and technical expertise free you up to focus on what matters most - growing your sales.
 
